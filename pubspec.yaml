@@ -1,5 +1,5 @@
 name: bill_scan
-description: Offline PDF bill analyzer — ML Kit OCR + rule-based regex parsing. No API keys needed.
+description: Offline PDF bill analyzer — pdfx + ML Kit OCR + regex parser. No API keys needed.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -11,16 +11,16 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # PDF rendering — converts PDF pages to images for ML Kit
+  # Renders PDF pages to images AND provides text-layer extraction
   pdfx: ^2.6.0
 
-  # ML Kit on-device OCR (Latin script covers English + European languages)
+  # On-device ML Kit OCR — no internet, no API key
   google_mlkit_text_recognition: ^0.13.0
 
-  # File picker for selecting PDF from device storage
+  # File picker for selecting PDFs
   file_picker: ^8.0.0+1
 
-  # Temp directory for intermediate image files
+  # Temp directory for intermediate render images
   path_provider: ^2.1.2
 
 dev_dependencies:
