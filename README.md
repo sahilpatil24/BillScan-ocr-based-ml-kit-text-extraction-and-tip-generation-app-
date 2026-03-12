@@ -6,13 +6,8 @@ The app analyzes PDF bills to identify charges, taxes, warnings, and financial i
 
 BillScan works completely offline, ensuring fast processing and user privacy.
 
-
-![WhatsApp Image 2026-03-04 at 23 54 58](https://github.com/user-attachments/assets/08cf2411-6960-41a9-b34f-3c29004bee3a)
-![WhatsApp Image 2026-03-05 at 00 32 02](https://github.com/user-attachments/assets/fb35d33c-7b75-4b45-a99b-a1747ab69bf5)
-![WhatsApp Image 2026-03-05 at 00 31 32](https://github.com/user-attachments/assets/c10f3b6f-35ec-4f8e-97da-ff6ce3cee65f)
-![WhatsApp Image 2026-03-05 at 00 31 10](https://github.com/user-attachments/assets/834b1519-e45b-4dfe-b8f1-9f06fcee24bc)
-![WhatsApp Image 2026-03-04 at 23 55 54](https://github.com/user-attachments/assets/0a4c8edc-1e13-4f17-aeda-d8f5eeb3d86a)
-![WhatsApp Image 2026-03-04 at 23 55 32](https://github.com/user-attachments/assets/9cdec5a1-7f2d-44b2-b0ea-fd055e1cec28)
+<img width="787" height="532" alt="image" src="https://github.com/user-attachments/assets/4cb6e38d-0e3c-455e-a5a2-9a01432d7f25" />
+<img width="529" height="527" alt="image" src="https://github.com/user-attachments/assets/7cf3213c-9149-41b4-a90c-9ba254da061c" />
 
 
 
