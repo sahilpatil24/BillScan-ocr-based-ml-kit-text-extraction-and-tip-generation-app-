@@ -1,4 +1,4 @@
-<img width="232" height="521" alt="image" src="https://github.com/user-attachments/assets/24dedcff-914c-4164-abc9-3d9264ca2a0b" />🧾 BillScan – OCR-Based Bill Analysis App
+🧾 BillScan – OCR-Based Bill Analysis App
 
 BillScan is a mobile application that uses Google ML Kit OCR and intelligent text parsing to extract meaningful information from bills and invoices.
 
